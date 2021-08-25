@@ -29,7 +29,7 @@ const handleUserInput = function(input) {
     connection.write("Move: right");
   }
 
-   connection.write(`Input was: ${input}`);
+   connection.write(`Say: social distancing`);
 
 };
 
